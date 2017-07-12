@@ -1,0 +1,16 @@
+{
+  "name": "walmart-mx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stats.js",
+  "scripts": {
+    "start": "node stats.js",
+    "test": "node debug stats.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "algoliasearch": "^3.24.0",
+    "mathjs": "^3.14.2"
+  }
+}
